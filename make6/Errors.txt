@@ -1,0 +1,4 @@
+errors notified:
+
+Unable Create new Acc when there are 2 entries with same name 
+Balance updation..

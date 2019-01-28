@@ -1,0 +1,15 @@
+#main {
+height:80px;
+}
+#sub1 {
+border-width:2px; 
+border-color:#000000;
+border-style:solid;
+float:right;
+width:50%;
+}
+f{
+font-family:sans-serif;
+font-size:36px;
+
+}

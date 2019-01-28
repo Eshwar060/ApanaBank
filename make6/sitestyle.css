@@ -1,0 +1,26 @@
+body {font-size: medium;
+font-family: Serif;
+color: black;}
+
+#new {
+padding:10px;
+word-spacing:5px;
+}
+
+#top {
+color: black;
+border: 0px solid;
+padding: 5px;
+width:900px;
+height:600px;
+}
+
+
+#heading {
+font-family: Sans-Serif;
+color:black;
+}
+
+
+
+
